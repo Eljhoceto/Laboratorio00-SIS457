@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject5-5063.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\MyProject5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\ANaveDona.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\MyProject5.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\MyProject5GameMode.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\MyProject5Pawn.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\ANaveDona.gen.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\MyProject5.init.gen.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\MyProject5GameMode.gen.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\MyProject5Pawn.gen.cpp.obj"
+"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\Default.rc2.res"
+/OUT:"C:\Users\eljho\OneDrive\Documentos\Unreal Projects\MyProject5\Intermediate\Build\Win64\UE4Editor\Development\MyProject5\UE4Editor-MyProject5-5063.lib"

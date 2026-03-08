@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyProject5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1F4A7795-4FAE-4FED-A724-0CDC73D199E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyProject5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyProject5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B912FD39-9AC9-451F-B959-B5380247EC7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyProject5">
+      <UniqueIdentifier>{BF49F9FF-12C5-4C21-9C2F-CA41779CB6B5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MyProject5\ANaveDona.cpp">
+      <Filter>Source\MyProject5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5\ANaveDona.h">
+      <Filter>Source\MyProject5</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MyProject5\MyProject5.Build.cs">
+      <Filter>Source\MyProject5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyProject5\MyProject5.cpp">
+      <Filter>Source\MyProject5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5\MyProject5.h">
+      <Filter>Source\MyProject5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5\MyProject5GameMode.cpp">
+      <Filter>Source\MyProject5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5\MyProject5GameMode.h">
+      <Filter>Source\MyProject5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject5\MyProject5Pawn.cpp">
+      <Filter>Source\MyProject5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject5\MyProject5Pawn.h">
+      <Filter>Source\MyProject5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
