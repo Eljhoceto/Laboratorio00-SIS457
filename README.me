@@ -1,0 +1,16 @@
+# Laboratorio 00 - Nave Dona (Programación Avanzada)
+
+Este proyecto implementa una nave con forma de dona utilizando **C++ puro** en Unreal Engine, resaltando conceptos de Programación Orientada a Objetos.
+
+### Características Técnicas:
+* **Clase Maestra**: `AANaveDona` heredada de `AActor`.
+* **Componentes**: Uso de `UStaticMeshComponent` definido y cargado mediante `ConstructorHelpers`.
+* **20 Movimientos Controlados**: La nave alterna automáticamente entre 3 estados de movimiento:
+  1. **Movimientos Lineales**: Traslación en ejes X, Y, Z con oscilación sinusoidal.
+  2. **Movimientos Rotacionales**: Rotación combinada de Pitch, Yaw y Roll.
+  3. **Movimientos Complejos**: Órbitas en espiral, vibración aleatoria y escalado dinámico.
+
+### Conceptos de POO Aplicados:
+* **Encapsulamiento**: Propiedades de velocidad y escala protegidas dentro de la clase.
+* **Abstracción**: Lógica de movimiento segmentada en métodos específicos (`EjecutarMovimientosLineales`, etc.).
+* **Uso de DeltaTime**: Garantiza que los 20 movimientos sean independientes de los FPS del sistema.
